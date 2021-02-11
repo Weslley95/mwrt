@@ -1,5 +1,5 @@
 
-  <a href="http://mwrt.setupnow.com.br">
+  <a href="http://mwrt.setupnow.com.br" align="center">
     <img alt="Feito por Setup Now" src="https://img.shields.io/badge/Feito%20por-SetupNow-%237519C1">
   </a>
  
