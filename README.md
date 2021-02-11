@@ -1,10 +1,4 @@
 
-  <img alt="GitHub language count" src="https://img.shields.io/badge/Languages-4-%2300FF7F%09">
-  
-  <a href="https://github.com/Weslley95/crud_php/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/README-ecoleta">
-  </a>
-
   <a href="http://mwrt.setupnow.com.br">
     <img alt="Feito por Setup Now" src="https://img.shields.io/badge/Feito%20por-SetupNow-%237519C1">
   </a>
