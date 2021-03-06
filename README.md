@@ -5,7 +5,9 @@
  
 </p>
 <h1 align="center">
+    <a href="https://setupnow.com.br" target="_blank">
     <img alt="Setup Now" title="#NextLevelWeek" src="./assets/logo.ico" />
+    </a>
 </h1>
 
 <h4 align="center"> 
@@ -21,7 +23,6 @@
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
-
 
 ## 💻 Sobre o projeto
 
@@ -50,6 +51,7 @@
 ## 🚀 Como executar o projeto
 
 Este projeto é divido em duas partes:
+
 1. Backend
 2. Frontend
 
@@ -71,7 +73,7 @@ $ git clone gh repo clone Weslley95/mwrt
 # Acesse a pasta do projeto no seu terminal/cmd ou realize o donwload ZIP dos arquivos
 $ cd mwrt
 
-# Deixe a pasta alocada em xampp/htdocs e execute o Apache no xampp 
+# Deixe a pasta alocada em xampp/htdocs e execute o Apache no xampp
 
 # A aplicação será aberta na porta:80 - acesse http://localhost
 
@@ -85,18 +87,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Website**
 
--   **[Bootstrap](https://getbootstrap.com/)**
+- **[Bootstrap](https://getbootstrap.com/)**
 
 #### **Server**
 
--   **[PHP](https://www.php.net/manual/pt_BR/intro-whatis.php)**
-
+- **[PHP](https://www.php.net/manual/pt_BR/intro-whatis.php)**
 
 #### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
 
--   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
--   Ícones:  **[Feather Icons](https://feathericons.com/)**,  **[Font Awesome](https://fontawesome.com/)**
--   Fontes:  **[Ubuntu](https://fonts.google.com/specimen/Ubuntu)**,  **[Roboto](https://fonts.google.com/specimen/Roboto)**
+- Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
+- Ícones: **[Feather Icons](https://feathericons.com/)**, **[Font Awesome](https://fontawesome.com/)**
+- Fontes: **[Ubuntu](https://fonts.google.com/specimen/Ubuntu)**, **[Roboto](https://fonts.google.com/specimen/Roboto)**
 
 ---
 
@@ -117,7 +118,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Weslley</b></sub></a> <a href="https://setupnow.com.br/portfolio.html#portifolio" title="Setup Now">🚀</a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Weslley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weslley-bezerra-451576125/)](https://www.linkedin.com/in/weslley-bezerra-451576125/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Weslley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weslley-bezerra-451576125/)](https://www.linkedin.com/in/weslley-bezerra-451576125/)
 [![Gmail Badge](https://img.shields.io/badge/-weslleybezerra95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:weslleybezerra95@gmail.com)](mailto:weslleybezerra95@gmail.com)
 
 ---
